@@ -330,5 +330,7 @@ This wrapper exports the `src` directory to `PYTHONPATH` before launching eSim.
 The application was successfully launched using the `esim` command.  
 Ngspice and KiCad 8.0 were verified as functional backends.
 
+## Result 
+<img width="314" height="160" alt="image" src="https://github.com/user-attachments/assets/72d97a48-674b-4ad5-94a0-439048f007ec" />
 
-
+<img width="314" height="160" alt="image" src="https://github.com/user-attachments/assets/02b414e6-8f2b-410c-844d-4eece79d556c" />
